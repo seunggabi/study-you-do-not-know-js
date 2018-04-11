@@ -26,34 +26,34 @@ this와 객체 프로토타입: http://bit.ly/ydkjs-this-code<br>
 ---
 
 ### 타입과 문법
-1. [타입](/blob/master/type-and-grammar/type.md)
-2. [값](/blob/master/type-and-grammar/value.md)
-3. [네이티브](/blob/master/type-and-grammar/native.md)
-4. [강제변환](/blob/master/type-and-grammar/coercion.md)
-5. [문법](/blob/master/type-and-grammar/grammar.md)
+1. [타입](/type-and-grammar/type.md)
+2. [값](/type-and-grammar/value.md)
+3. [네이티브](/type-and-grammar/native.md)
+4. [강제변환](/type-and-grammar/coercion.md)
+5. [문법](/type-and-grammar/grammar.md)
 
 ### 스코프와 클로저
-1. [스코프란 무엇인가](/blob/master/scope-and-closure/define-scope.md)
-2. [렉시컬 스코프](/blob/master/scope-and-closure/lexical-scope.md)
-3. [함수 vs 블록 스코프](/blob/master/scope-and-closure/function-scope-versus-block-scope.md)
-4. [호이스팅](/blob/master/scope-and-closure/hosting.md)
-5. [스코프 클로저](/blob/master/scope-and-closure/scope-closure.md)
+1. [스코프란 무엇인가](/scope-and-closure/define-scope.md)
+2. [렉시컬 스코프](/scope-and-closure/lexical-scope.md)
+3. [함수 vs 블록 스코프](/scope-and-closure/function-scope-versus-block-scope.md)
+4. [호이스팅](/scope-and-closure/hosting.md)
+5. [스코프 클로저](/scope-and-closure/scope-closure.md)
 
 ### 부록
-a. [다양한 환경의 자바스크립트](/blob/master/extra/part-a.md)
-b. [스코프와 렉시컬 this](/blob/master/extra/part-b.md)
+a. [다양한 환경의 자바스크립트](/extra/part-a.md)
+b. [스코프와 렉시컬 this](/extra/part-b.md)
 
 ### this와 객체 프로토타입
-1. [this라나 뭐라나](/blob/master/this-and-object-prototype/this.md)
-2. [this가 이런 거로군!](/blob/master/this-and-object-prototype/bind.md)
-3. [객체](/blob/master/this-and-object-prototype/object.md)
-4. [클래스와 객체의 혼합](/blob/master/this-and-object-prototype/class.md)
-5. [프로토타입](/blob/master/this-and-object-prototype/prototype.md)
-6. [작동위임](/blob/master/this-and-object-prototype/delegation.md)
+1. [this라나 뭐라나](/this-and-object-prototype/this.md)
+2. [this가 이런 거로군!](/this-and-object-prototype/bind.md)
+3. [객체](/this-and-object-prototype/object.md)
+4. [클래스와 객체의 혼합](/this-and-object-prototype/class.md)
+5. [프로토타입](/this-and-object-prototype/prototype.md)
+6. [작동위임](/this-and-object-prototype/delegation.md)
 
 ### 비동기와 성능
-1. [비동기성: 지금과 나중](/blob/master/asynchronous/now-and-later.md)
-2. [콜백](/blob/master/asynchronous/callback.md)
+1. [비동기성: 지금과 나중](/asynchronous/now-and-later.md)
+2. [콜백](/asynchronous/callback.md)
 
 <br>
 
