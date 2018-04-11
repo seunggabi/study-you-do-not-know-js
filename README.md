@@ -40,8 +40,8 @@ this와 객체 프로토타입: http://bit.ly/ydkjs-this-code<br>
 5. [스코프 클로저](/scope-and-closure/scope-closure.md)
 
 ### 부록
-a. [다양한 환경의 자바스크립트](/extra/part-a.md)
-b. [스코프와 렉시컬 this](/extra/part-b.md)
+1. [다양한 환경의 자바스크립트](/extra/part-a.md)
+2. [스코프와 렉시컬 this](/extra/part-b.md)
 
 ### this와 객체 프로토타입
 1. [this라나 뭐라나](/this-and-object-prototype/this.md)
