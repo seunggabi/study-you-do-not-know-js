@@ -36,7 +36,7 @@ this와 객체 프로토타입: http://bit.ly/ydkjs-this-code<br>
 1. [스코프란 무엇인가](/scope-and-closure/define-scope.md)
 2. [렉시컬 스코프](/scope-and-closure/lexical-scope.md)
 3. [함수 vs 블록 스코프](/scope-and-closure/function-scope-versus-block-scope.md)
-4. [호이스팅](/scope-and-closure/hosting.md)
+4. [호이스팅](/scope-and-closure/hoisting.md)
 5. [스코프 클로저](/scope-and-closure/scope-closure.md)
 
 ### 부록
